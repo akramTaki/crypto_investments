@@ -1,4 +1,4 @@
-# crypto_investments
+# crypto investments
 
 A novel approach to assembling investment portfolios that are based on cryptocurrencies.
 
